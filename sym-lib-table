@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "nodemcu")(type "KiCad")(uri "/Users/giuliopilotto/Desktop/kicad-lib/nodemcu.kicad_sym")(options "")(descr ""))
+)
